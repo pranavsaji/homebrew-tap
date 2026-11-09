@@ -1,6 +1,6 @@
 cask "talktomyhand" do
-  version "1.2.0"
-  sha256 "705e3a5234a0373a920b7ecb6a093bcbf24ae79d1b81a50fa8dbf5570a9eafb6"
+  version "1.2.1"
+  sha256 "9acf7b41d3f289d30996a86e95ee2c23c290911a65e964f417f090b369c4feca"
 
   url "https://github.com/pranavsaji/talktomyhand-releases/releases/download/v#{version}/Talktomyhand-#{version}.dmg"
   name "Talktomyhand"
